@@ -1,0 +1,3 @@
+uid1	upw1	uname1
+chkim	comtrue	chkim
+1	1	1

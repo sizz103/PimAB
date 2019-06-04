@@ -1,4 +1,4 @@
-package view;
+﻿package view;
 
 import java.io.File;
 import java.net.URL;
